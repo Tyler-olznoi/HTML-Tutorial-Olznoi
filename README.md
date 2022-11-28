@@ -10,8 +10,9 @@ This tutorial is targeted around individuals who want to learn how to build webs
 business owners wanting to improve their websites, and individuals who want to increase
 their knowledge on how websites are run and created on the internet. 
 
-[HTML Overview](HTML-Overview)
-[HTML History](HTML-History)
+*[HTML Overview](HTML-Overview)
+*[HTML History](HTML-History)
+*[Learn HTML](HTML-How-To)
 
 
 
