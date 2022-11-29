@@ -25,7 +25,7 @@ Every HTML needs to have a boilerplate at the start of the file. Boilerplates ar
 
 Header tags are used to define titles in your html file. You can either write the tag as a simple _header_ or can write the tag from _h1_ to _h6_ depending on what size you want your header. The _h1_ header is the largest while the _h6_ header is thr smallest. Inbetween the two tags, you will type the content you want to be your header. (This is how all content is inputed in HTML) Below is a picture of how to type a header in html and the output of the text written. 
 
-##### First Example
+##### Example
 ###### HTML File
 <img width="177" alt="Screen Shot 2022-11-29 at 4 07 45 PM" src="https://user-images.githubusercontent.com/70455640/204659080-0a66286f-163f-413a-ac80-c6d270084de5.png">
 
