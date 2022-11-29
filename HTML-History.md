@@ -1,1 +1,3 @@
+# History of HTML
 
+A physicist named Tim Berners-Lee who lived in Switzerland, invented HTML in 1993. When HTML first was released, it only had a total of 18 different tags. HTMl now has over 130 tags that can be used. HTMl didn't grow at first because not many developers at the time had the desire to create websites. The second version of HTML was released in 1995. There wasn't many upgrades from the old version, it was just updated to make it easier for others to learn and develop websites. Dave Raggett then introduced a whole new fresh draft on HTML in 1997. The third version of HTML was never released because of how big the update was. This new version included lots of powerful and advanced features that slowed down the website browser drastically
