@@ -23,7 +23,7 @@ Every HTML needs to have a boilerplate at the start of the file. Boilerplates ar
 
 ##### HTML Header Tags
 
-Header tags are used to define titles in your html file. You can either write the tag as a simple _header_ or can write the tag from _h1_ to _h6_ depending on what size you want your header. The _h1_ header is the largest while the _h6_ header is thr smallest. Inbetween the two tags, you will type the content you want to be your header. (This is how all content is inputed in HTML) Below is a picture of how to type a header two different ways in html and the output of the text written. 
+Header tags are used to define titles in your html file. You can either write the tag as a simple _header_ or can write the tag from _h1_ to _h6_ depending on what size you want your header. The _h1_ header is the largest while the _h6_ header is thr smallest. Inbetween the two tags, you will type the content you want to be your header. (This is how all content is inputed in HTML) Below is a picture of how to type a header in html and the output of the text written. 
 
 ##### First Example
 ###### HTML File
@@ -32,6 +32,13 @@ Header tags are used to define titles in your html file. You can either write th
 
 ###### Output
 <img width="210" alt="Screen Shot 2022-11-29 at 4 09 14 PM" src="https://user-images.githubusercontent.com/70455640/204659245-b3545c9b-a8b0-4cfa-9455-b9cf896c4deb.png">
+
+##### HTML Paragraph Tags
+
+Paragraph tags are simple to use in your HTML file. These tags can simply be defined as _p_ and will seperate your content into a seperate block of text. Below is can example of how paragraphs are typed in HTML. 
+
+<img width="375" alt="Screen Shot 2022-11-29 at 4 14 48 PM" src="https://user-images.githubusercontent.com/70455640/204660069-3d894b2c-b640-4727-ad01-33de2e42c245.png">
+
 
 
 
