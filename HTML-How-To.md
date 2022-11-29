@@ -35,7 +35,7 @@ Header tags are used to define titles in your html file. You can either write th
 
 ##### HTML Paragraph Tags
 
-Paragraph tags are simple to use in your HTML file. These tags can simply be defined as _p_ and will seperate your content into a seperate block of text. Below is can example of how paragraphs are typed in HTML. 
+Paragraph tags are simple to use in your HTML file. These tags can simply be defined as _p_ and will seperate your content into a seperate block of text. Below is an example of how paragraphs are typed in HTML. 
 
 <img width="375" alt="Screen Shot 2022-11-29 at 4 14 48 PM" src="https://user-images.githubusercontent.com/70455640/204660069-3d894b2c-b640-4727-ad01-33de2e42c245.png">
 
