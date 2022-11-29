@@ -23,7 +23,7 @@ In this tutorial we will not go into CSS or JavaScript too much, but will go dee
 * Limited Security
 * Small Errors can ruin entire webpage
 
-(![images](https://user-images.githubusercontent.com/70455640/204411181-f64ea5c9-6b82-45ef-b704-5dbeeef90945.png))
+![images](https://user-images.githubusercontent.com/70455640/204411181-f64ea5c9-6b82-45ef-b704-5dbeeef90945.png)
 
 
 
