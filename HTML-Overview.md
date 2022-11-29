@@ -5,7 +5,7 @@ building blocks of a web page. A markup langauge uses tags todefine specific ele
 the layout of the website. HTML is easy to learn and is one of the most useful markup langauges that is used in many professions around the world. 
 Using HTML, you can create and structure sections, links, paragraphs, titles, photos and more! CSS and JavaScript can also be used to help expand and 
 create your website. CSS is used to change the website layout, colors, and animations. JavaScript is also used to create functions for more website content.
-In this tutorial we will not go into CSS or JavaScript too much, but will go deeper into HTML itself. I also have included Pros and Cons to using HTMl below. ![images](https://user-images.githubusercontent.com/70455640/204411181-f64ea5c9-6b82-45ef-b704-5dbeeef90945.png)
+In this tutorial we will not go into CSS or JavaScript too much, but will go deeper into HTML itself. I also have included Pros and Cons to using HTMl below. 
 
 ## _Pros_
 
