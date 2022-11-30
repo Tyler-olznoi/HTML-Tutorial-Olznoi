@@ -70,7 +70,7 @@ Video tags are very similar to image tags. Both need a width, height, and src in
 
 <img width="329" alt="Screen Shot 2022-11-29 at 5 56 21 PM" src="https://user-images.githubusercontent.com/70455640/204674390-64323985-32b7-41f2-a1c6-02c8473a64b3.png">
 
-
+[Go Back to Main Menu](README.md)
 
 
 
