@@ -12,7 +12,7 @@ Every HTML needs to have a boilerplate at the start of the file. Boilerplates ar
 * The second line tells the computer what language you will be doing your work in. (English)
 * The third and ninth line include a head tag which holds computer-readable information. 
 * Inside the header, (lines 4 through 6) is called metadata. This is data that describes the file to the computer.
-* Line 7 includes the title of the webpage. The text inbetween the title tags changes the text of the browser bar of your website. 
+* Line 7 includes the title of the webpage. The text in between the title tags changes the text of the browser bar of your website. 
 * The 8th and last line in the head tag includes the CSS stylesheet. This sheet is linked from a seperate file to change the appearnce and layout of your html. 
 * Line 10 and 12 of the boilerplate include the body tag of the html file which is where you will be placing all of your documents contents.
 * Line 11 includes the external JavaScript tags which will link your seperate JavaScript file to your HTML. 
