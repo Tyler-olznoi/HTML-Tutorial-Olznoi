@@ -23,7 +23,7 @@ Every HTML needs to have a boilerplate at the start of the file. Boilerplates ar
 
 #### HTML Header Tags
 
-Header tags are used to define titles in your html file. You can either write the tag as a simple _header_ or can write the tag from _h1_ to _h6_ depending on what size you want your header. The _h1_ header is the largest while the _h6_ header is thr smallest. Inbetween the two tags, you will type the content you want to be your header. (This is how all content is inputed in HTML) Below is a picture of how to type a header in html and the output of the text written. 
+Header tags are used to define titles in your html file. You can either write the tag as a simple _header_ or can write the tag from _h1_ to _h6_ depending on what size you want your header. The _h1_ header is the largest while the _h6_ header is the smallest. In between the two tags, you will type the content you want to be your header. (This is how all content is inputed in HTML) Below is a picture of how to type a header in html and the output of the text written. 
 
 ##### Header Example
 
